@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Title Scene.unity
+    guid: a59099e889841464bb498d3e282a8383
+  - enabled: 1
+    path: Assets/taiki Scene.unity
+    guid: 35433f0d1f1bc45f6aace6d608480149
+  - enabled: 1
+    path: Assets/map Scene.unity
+    guid: b6ca1756db6b14945b4116ce8880ae82
+  - enabled: 1
+    path: Assets/Anomaly Scene.unity
+    guid: d5e6aca07842dd3438f96fd838d77439
+  - enabled: 1
+    path: Assets/EndingScene.unity
+    guid: 0d28a72b6c2a25c4795ae404103201f1
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
