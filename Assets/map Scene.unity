@@ -2451,7 +2451,7 @@ MonoBehaviour:
   - {fileID: 239416405}
   - {fileID: 640270892}
   cameraNameText: {fileID: 0}
-  mouseSensitivity: 2
+  mouseSensitivity: 1
   verticalClamp: 80
   officeSceneName: taiki Scene
 --- !u!4 &1270167427
